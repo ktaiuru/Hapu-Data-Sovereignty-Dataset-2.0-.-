@@ -20,3 +20,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🌱 I’m currently learning ...
 -->
+
+
+
+### Converting from XLSX to CSV
+
+This will convert the excel file to csv, which is easier to view and work with.
+
+- Need to have Python 3 installed
+
+Run: 
+```bash
+pipenv run python3 convert_to_csv.py
+```
